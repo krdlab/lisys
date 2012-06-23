@@ -1,0 +1,10 @@
+*.suo
+*.sdf
+*.user
+obj
+bin
+Debug
+Release
+x64
+TestResult.xml
+test.csproj.VisualState.xml
